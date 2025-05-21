@@ -1,50 +1,63 @@
-<h2 align="left">Hi 👋! My name is Garv Mittal and I'm a Web Developer, from Meerut, Uttar Pradesh 🚀</h2>
+<h1 align="center">Hi 👋, I'm Garv Mittal</h1>
+<h3 align="center">A passionate frontend developer </h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GarvMittal04&label=Profile%20views&color=0e75b6&style=flat" alt="GarvMittal04" /> </p>
 
+- 🔭 I’m currently working on **React Portfolio Website**  
+  [GitHub Project](https://github.com/GarvMittal04/react-portfolio)
+
+- 👯 I’m looking to collaborate on **Frontend Open Source Projects**
+
+- 🤝 I’m looking for help with **Backend Development using Node.js**
+
+- 🌱 I’m currently learning **React.js, Tailwind CSS, MongoDB, Express.js**
+
+- 💬 Ask me about **React, JavaScript, GSAP, and Web Animations**
+
+- 📫 How to reach me **garvmittal2003@gmail.com**
+
+- 👨‍💻 All of my projects are available at  
+  [Portfolio](https://garv-portfolio.vercel.app)
+
+
+
+- 📄 Know about my experiences  
+  [View Resume](https://drive.google.com/file/d/1wdBdYSBX_n5-cuE9ia29vHqX90f_Zc15/view?usp=drive_link)
+
+- ⚡ Fun fact: I think I am funny 😄, but my code sometimes disagrees.
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/garv-mittal-536059241" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="garvmittal" /></a>
+<a href="mailto:garvmittal2003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" alt="email" /></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarvMittal04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GarvMittal04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GarvMittal04&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvMittal04&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🐍 GitHub Activity Snake
+<img src="https://github.com/GarvMittal04/GarvMittal04/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/garv-mittal-536059241/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:garvmittal2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/GarvMittal04" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
