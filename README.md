@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GarvMittal04&label=Profile%20views&color=0e75b6&style=flat" alt="GarvMittal04" /> </p>
 
-- 🔭 I’m currently working on **React Portfolio Website**  
+- 🔭 I’m currently working on **React Portfolio Website**   
   [GitHub Project](https://github.com/GarvMittal04/Garv-Portfolio.git)
 
 - 👯 I’m looking to collaborate on **Frontend Open Source Projects**
