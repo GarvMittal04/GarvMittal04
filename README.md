@@ -22,7 +22,7 @@
 
 
 - 📄 Know about my experiences  
-  [View Resume](https://drive.google.com/file/d/1fB5BKdvDek00pVc_G5TtQp0cXM2el7Wf/view?usp=sharing)
+  [View Resume](https://drive.google.com/file/d/14h2mh91jXzBwuzLTiq11XG7XG1cU7Kl1/view?usp=sharing)
 
 - ⚡ Fun fact: I think I am funny 😄, but my code sometimes disagrees.
 
